@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#footer-get-ready{
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Email-Section */
+
+.footer-icons-div{
+    width: 40px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 10px;
+    animation: 4s footer-icon-ring linear infinite alternate;
+}
+@keyframes footer-icon-ring {
+    0%{
+       border: 2px solid red; 
+    }
+    30%{
+        border: 2px solid black;
+    }
+    70%{
+        border: 2px solid red;
+    }
+    100%{
+        border: 2px solid black;
+    }
+}
+
+#footer-email-icon{
+    position: relative;
+    right: 5px;
+    top: -2px;
+    font-size: 21px;
+}
+#footer-email-title{
+    color: rgb(150, 146, 146);
+    font-size: 16px;
+    position: relative;
+    left: 20px;
+    top: -5px;
+}
+#footer-email-username{
+    color: white;
+    position: relative;
+    top: 15px;
+    right: 27px;
+}
+
+/* Email-Section */
+
+
+/* Email-Section */
+
+.footer-icons-div{
+    width: 40px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 10px;
+    animation: 4s footer-icon-ring linear infinite alternate;
+}
+@keyframes footer-icon-ring {
+    0%{
+       border: 2px solid red; 
+    }
+    30%{
+        border: 2px solid black;
+    }
+    70%{
+        border: 2px solid red;
+    }
+    100%{
+        border: 2px solid black;
+    }
+}
+
+#footer-Linkedin-icon{
+    position: relative;
+    right: 5px;
+    top: -2px;
+    font-size: 21px;
+}
+#footer-Linkedin-title{
+    color: rgb(150, 146, 146);
+    font-size: 16px;
+    position: relative;
+    left: 20px;
+    top: -5px;
+}
+#footer-Linkedin-username{
+    color: white;
+    position: relative;
+    top: 15px;
+    right: 41px;
+}
+
+/* Linkedin-Section */
+
+
+
+/* contant-Section */
+
+.footer-icons-div{
+    width: 40px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 10px;
+    animation: 4s footer-icon-ring linear infinite alternate;
+}
+@keyframes footer-icon-ring {
+    0%{
+       border: 2px solid red; 
+    }
+    30%{
+        border: 2px solid black;
+    }
+    70%{
+        border: 2px solid red;
+    }
+    100%{
+        border: 2px solid black;
+    }
+}
+
+#footer-contact-icon{
+    position: relative;
+    right: 5px;
+    top: -2px;
+    font-size: 21px;
+}
+#footer-contact-title{
+    color: rgb(150, 146, 146);
+    font-size: 16px;
+    position: relative;
+    left: 20px;
+    top: -5px;
+}
+#footer-contact-PhoneNumber{
+    color: white;
+    position: relative;
+    top: 15px;
+    right: 37px;
+}
+
+/* Contacts-Section */
+
+/* INPUTS */
+
+#your-name{
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #3C3C3C;
+    background-color: #141414;
+}
+
+#Your-PhoneNumber{
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #3C3C3C;
+    background-color: #141414; 
+    margin-left: 20px;  
+}
+
+#Email{
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #3C3C3C;
+    background-color: #141414;
+}
+
+#Your-Subject{
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #3C3C3C;
+    background-color: #141414; 
+    margin-left: 20px;  
+}
+
+#Message{
+    color: white;
+    padding-left: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    width: 83%;
+    height: 150px;
+    border: 1px solid #3C3C3C;
+    background-color: #141414;
+}
+
+/* INPUTS */
